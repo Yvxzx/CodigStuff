@@ -1,0 +1,14 @@
+/home/yves/Schreibtisch/Repositories/CodigStuff/TestProj1/bin/Debug/net8.0/TestProj1
+/home/yves/Schreibtisch/Repositories/CodigStuff/TestProj1/bin/Debug/net8.0/TestProj1.deps.json
+/home/yves/Schreibtisch/Repositories/CodigStuff/TestProj1/bin/Debug/net8.0/TestProj1.runtimeconfig.json
+/home/yves/Schreibtisch/Repositories/CodigStuff/TestProj1/bin/Debug/net8.0/TestProj1.dll
+/home/yves/Schreibtisch/Repositories/CodigStuff/TestProj1/bin/Debug/net8.0/TestProj1.pdb
+/home/yves/Schreibtisch/Repositories/CodigStuff/TestProj1/obj/Debug/net8.0/TestProj1.GeneratedMSBuildEditorConfig.editorconfig
+/home/yves/Schreibtisch/Repositories/CodigStuff/TestProj1/obj/Debug/net8.0/TestProj1.AssemblyInfoInputs.cache
+/home/yves/Schreibtisch/Repositories/CodigStuff/TestProj1/obj/Debug/net8.0/TestProj1.AssemblyInfo.cs
+/home/yves/Schreibtisch/Repositories/CodigStuff/TestProj1/obj/Debug/net8.0/TestProj1.csproj.CoreCompileInputs.cache
+/home/yves/Schreibtisch/Repositories/CodigStuff/TestProj1/obj/Debug/net8.0/TestProj1.dll
+/home/yves/Schreibtisch/Repositories/CodigStuff/TestProj1/obj/Debug/net8.0/refint/TestProj1.dll
+/home/yves/Schreibtisch/Repositories/CodigStuff/TestProj1/obj/Debug/net8.0/TestProj1.pdb
+/home/yves/Schreibtisch/Repositories/CodigStuff/TestProj1/obj/Debug/net8.0/TestProj1.genruntimeconfig.cache
+/home/yves/Schreibtisch/Repositories/CodigStuff/TestProj1/obj/Debug/net8.0/ref/TestProj1.dll
